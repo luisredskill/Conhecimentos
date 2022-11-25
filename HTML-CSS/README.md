@@ -5,11 +5,11 @@
 
 ## 1 - História da internet 🌐
 
-Anotações desnecessárias devido a conhecimento prévio - todo conteúdo presente no [PDF do capítulo 1](https://github.com/luisredskill/HTML-CSS-Javascript/tree/main/HTML-CSS/PDFs/01%20-%20História%20da%20Internet.pdf).
+Anotações desnecessárias devido a conhecimento prévio - todo conteúdo presente no [PDF do capítulo 1](https://github.com/luisredskill/Conhecimentos/tree/main/Content/PDFs/01%20-%20História%20da%20Internet.pdf).
 
 ## 2 - Como a internet funciona? 🕵️
 
-Conteúdo de apoio presente no [PDF do capítulo 2](https://github.com/luisredskill/HTML-CSS-Javascript/tree/main/HTML-CSS/PDFs/02%20-%20Como%20funciona%20a%20Internet.pdf).
+Conteúdo de apoio presente no [PDF do capítulo 2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/PDFs/02%20-%20Como%20funciona%20a%20Internet.pdf).
 
 ### 2.1 - Resumo
 
@@ -109,17 +109,17 @@ google.com  </pre>
 
 ## 3 - Como funciona HTML e CSS? 🧑🏽‍💻
  
-Anotações desnecessárias devido a conhecimento prévio - todo conteúdo presente no [PDF do capítulo 3](https://github.com/luisredskill/HTML-CSS-Javascript/tree/main/HTML-CSS/PDFs/03%20-%20Como%20funciona%20HTML%20e%20CSS.pdf).
+Anotações desnecessárias devido a conhecimento prévio - todo conteúdo presente no [PDF do capítulo 3](https://github.com/luisredskill/Conhecimentos/tree/main/Content/PDFs/03%20-%20Como%20funciona%20HTML%20e%20CSS.pdf).
 
 ## 4 - Primeiros passos HTML. 🖥️
 
-Anotações desnecessárias devido a conhecimento prévio - todo conteúdo presente no [PDF do capítulo 4](https://github.com/luisredskill/HTML-CSS-Javascript/tree/main/HTML-CSS/PDFs/04%20-%20Primeiros%20passos%20HTML.pdf).
+Anotações desnecessárias devido a conhecimento prévio - todo conteúdo presente no [PDF do capítulo 4](https://github.com/luisredskill/Conhecimentos/tree/main/Content/PDFs/04%20-%20Primeiros%20passos%20HTML.pdf).
 
 
 
 ## 5 - Caracteres, parágrafos e quebras de linha. 📝
 
-Conteúdo de apoio presente no [PDF do capítulo 5](https://github.com/luisredskill/HTML-CSS-Javascript/tree/main/HTML-CSS/PDFs/05%20-%20Caracteres%2C%20parágrafos%20e%20quebras%20de%20linha.pdf).
+Conteúdo de apoio presente no [PDF do capítulo 5](https://github.com/luisredskill/Conhecimentos/tree/main/Content/PDFs/05%20-%20Caracteres%2C%20parágrafos%20e%20quebras%20de%20linha.pdf).
 
 
 ### 5.1 - Resumo
@@ -200,7 +200,7 @@ Note que para funcionar deve-se acrescentar o ; no final do código.
 
 ## 6 - Imagens 📷
 
-Conteúdo de apoio presente no [PDF do capítulo 6](https://github.com/luisredskill/HTML-CSS-Javascript/tree/main/HTML-CSS/PDFs/06%20-%20Imagens%20e%20Favicon.pdf).
+Conteúdo de apoio presente no [PDF do capítulo 6](https://github.com/luisredskill/Conhecimentos/tree/main/Content/PDFs/06%20-%20Imagens%20e%20Favicon.pdf).
 
 ### 6.1 - Resumo
 
@@ -256,13 +256,13 @@ Sites que facilitam a criação de favicons
 
 ## 7 - Hierarquia de Títulos. 📑
 
-Anotações desnecessárias devido a conhecimento prévio - todo conteúdo presente no [PDF do capítulo 7](https://github.com/luisredskill/HTML-CSS-Javascript/tree/main/HTML-CSS/PDFs/07%20-%20Hierarquia%20de%20títulos.pdf).
+Anotações desnecessárias devido a conhecimento prévio - todo conteúdo presente no [PDF do capítulo 7](https://github.com/luisredskill/Conhecimentos/tree/main/Content/PDFs/07%20-%20Hierarquia%20de%20títulos.pdf).
 
 
 
 ## 8 - Formatação de textos. 📖
 
-Conteúdo de apoio presente no [PDF do capítulo 8](https://github.com/luisredskill/HTML-CSS-Javascript/tree/main/HTML-CSS/PDFs/08%20-%20Formatação%20de%20Textos.pdf).
+Conteúdo de apoio presente no [PDF do capítulo 8](https://github.com/luisredskill/Conhecimentos/tree/main/Content/PDFs/08%20-%20Formatação%20de%20Textos.pdf).
 
 ### 8.1 - TAGs de formatação.
 
@@ -317,7 +317,7 @@ Note que ainda existe o parâmetro cite="link" para citar a fonte do texto.
 
 ## 9 - Listas. 📜
 
-Conteúdo de apoio presente no [PDF do capítulo 9](https://github.com/luisredskill/HTML-CSS-Javascript/tree/main/HTML-CSS/PDFs/09%20-%20Listas%20HTML.pdf).
+Conteúdo de apoio presente no [PDF do capítulo 9](https://github.com/luisredskill/Conhecimentos/tree/main/Content/PDFs/09%20-%20Listas%20HTML.pdf).
 
 ### 9.1 - Listas ordenadas ou Ordered list.
 
@@ -518,7 +518,7 @@ Resultado:
 
 ## 10 - Links e Âncoras. 🔗
 
-Conteúdo de apoio presente no [PDF do capítulo 10](https://github.com/luisredskill/HTML-CSS-Javascript/tree/main/HTML-CSS/PDFs/10%20-%20Ligações%20em%20toda%20parte.pdf).
+Conteúdo de apoio presente no [PDF do capítulo 10](https://github.com/luisredskill/Conhecimentos/tree/main/Content/PDFs/10%20-%20Ligações%20em%20toda%20parte.pdf).
 
 ### 10.1 - Como fazer um link no HTML?
 
@@ -582,7 +582,7 @@ Lista de [MEDIA TYPES](https://www.iana.org/assignments/media-types/media-types.
 
 ## 11 - Vídeos, áudios e imagens dinâmicas.
 
-Conteúdo de apoio presente no [PDF do capítulo 11](https://github.com/luisredskill/HTML-CSS-Javascript/tree/main/HTML-CSS/PDFs/11%20-%20Imagens%20dinâmicas%2C%20áudios%20e%20vídeos.pdf).
+Conteúdo de apoio presente no [PDF do capítulo 11](https://github.com/luisredskill/Conhecimentos/tree/main/Content/PDFs/11%20-%20Imagens%20dinâmicas%2C%20áudios%20e%20vídeos.pdf).
 
 ### 11.1 - Como trocar a imagem sozinha baseada no tamanho de tela?
 

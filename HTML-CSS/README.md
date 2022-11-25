@@ -695,7 +695,7 @@ Os videos são adicionados por meio da tag &lt;video&gt;, porém diferente dos a
 
 Resultado:
 
-![video_nocontrols](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/video_nocontrols_700.PNG)
+![video_nocontrols](../Content/SCREENSHOTS/video_nocontrols_700.PNG)
 
     Note que o vídeo apenas é mostrado na tela, o usuário não consegue interagir com ele.
 

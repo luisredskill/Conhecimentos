@@ -309,7 +309,7 @@ Note que ainda existe o parâmetro cite="link" para citar a fonte do texto.
 
 - __*&lt;abbr&gt;*__ - abreviações, ao passar o mouse em cima mostra o nome completo.
 
-![Screenshot](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/abbr.PNG)
+![Screenshot](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/abbr.PNG)
 
 - __*&lt;bdo&gt;*__ - inverte o texto.
 
@@ -636,7 +636,7 @@ código:
 
 Resultado:
 
-![Screenshot](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/audio_controller1.PNG)
+![Screenshot](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/audio_controller1.PNG)
 
 #### 11.2.2 - Otimização de Áudios nos sites.
 
@@ -695,7 +695,7 @@ Os videos são adicionados por meio da tag &lt;video&gt;, porém diferente dos a
 
 Resultado:
 
-![video_nocontrols](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/video_nocontrols_700.PNG)
+![video_nocontrols](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/video_nocontrols_700.PNG)
 
     Note que o vídeo apenas é mostrado na tela, o usuário não consegue interagir com ele.
 
@@ -715,7 +715,7 @@ Código:
 
 Resultado:
 
-![video_controls](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/video_controls_700.PNG)
+![video_controls](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/video_controls_700.PNG)
 
 #### 11.3.2 - Mudando o tamanho dos vídeos.
 
@@ -729,7 +729,7 @@ Código:
 
 Resultado:
 
-![video_controls_width_700](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/video_controls_width_700.PNG)
+![video_controls_width_700](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/video_controls_width_700.PNG)
 
 #### 11.3.3 Adicionando Thumbnails
 
@@ -741,7 +741,7 @@ Podemos adicionar uma thumbnail ao vídeo pelo parâmetro __*poster=""*__.
 
 Resultado:
 
-![poster_700](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/poster_700.PNG)
+![poster_700](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/poster_700.PNG)
 
 #### 11.3.4 __*IMPORTANTE!*__ Adicionando backups
 
@@ -770,21 +770,21 @@ As vatagens do __*Youtube*__ são melhores codecs de vídeo, deixando o vídeo m
 
 __*Youtube*__ passo-a-passo:
 
-![barra_yt](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/barra_yt.PNG)
+![barra_yt](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/barra_yt.PNG)
 
-![selecao_yt](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/selecao_yt.PNG)
+![selecao_yt](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/selecao_yt.PNG)
 
-![incorporado_yt](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/incorporado_yt.PNG)
+![incorporado_yt](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/incorporado_yt.PNG)
 
 As vantagens do __*Vimeo*__ são a qualidade do vídeo, porém tem vídeos maiores, se o usuário tiver uma internet pior o vídeo pode travar. Ele também permite uma maior privacidade, sendo a melhor opção quando queremos uma plataforma com vídeos próprios que não podem ser públicos.
 
 __*Vimeo*__ passo-a-passo:
 
-![barra_vimeo](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/barra_vimeo.PNG)
+![barra_vimeo](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/barra_vimeo.PNG)
 
-![selecao_vimeo](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/selecao_vimeo.PNG)
+![selecao_vimeo](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/selecao_vimeo.PNG)
 
-![incorporado_vimeo](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/incorporado_vimeo.PNG)
+![incorporado_vimeo](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/incorporado_vimeo.PNG)
 
 
 
@@ -803,7 +803,7 @@ __*background-color*__ - muda a cor de fundo do elemento. Exemplo:
 
 Resultado:
 
-![background-color](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/background_color.PNG)
+![background-color](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/background_color.PNG)
 
 __*color*__ - muda a cor da fonte do texto do elemento selecionado
 
@@ -813,7 +813,7 @@ __*color*__ - muda a cor da fonte do texto do elemento selecionado
 
 Resultado:
 
-![background-color](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/font_color.PNG)
+![background-color](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/font_color.PNG)
 
 __*font-size*__ - muda o tamanho do texto do elemento selecionado
 
@@ -823,7 +823,7 @@ __*font-size*__ - muda o tamanho do texto do elemento selecionado
 
 Resultado:
 
-![background-color](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/font_size.PNG)
+![background-color](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/font_size.PNG)
 
 __* * *__ - O seletor * é uma configuração global, ou seja, afeta o documento inteiro.
 
@@ -901,22 +901,22 @@ Exemplo : #B156AD
 
      O código hexadecimal é dividido em três partes, cada uma delas representando uma cor primária.
 
-![hexadecimal](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/hexadecimal.PNG)
+![hexadecimal](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/hexadecimal.PNG)
 
  O vermelho é representado pelos dois primeiros digitos. 
 
  Vermelho puro: #FF0000  
- ![hexadecimal_red](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/hexadecimal_red.PNG)
+ ![hexadecimal_red](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/hexadecimal_red.PNG)
 
  O verde pelos dois dígitos centrais. 
 
  Verde puro: #00FF00  
-  ![hexadecimal_green](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/hexadecimal_green.PNG)
+  ![hexadecimal_green](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/hexadecimal_green.PNG)
 
  E o azul pelos dois últimos digitos. 
 
  Azul puro: #0000FF  
-  ![hexadecimal_blue](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/hexadecimal_blue.PNG)
+  ![hexadecimal_blue](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/hexadecimal_blue.PNG)
 
 ##### 13.1.2.2 - Como funciona o código hexadecimal?
 
@@ -926,7 +926,7 @@ Como o código é feito na base 16, cada campo representativo de cor possui 16x1
 
 #FFFF00 representa respectivamente, 255 de vermelho, 255 de verde e 0 de azul resultando na cor amarela:  
 
-![cor](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/cor.PNG)
+![cor](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/cor.PNG)
 
 #### 13.1.3 - Representação por RGB.
 
@@ -941,7 +941,7 @@ representa em código RGB, respectivamente vermelho, verde e Azul. A representa�
 
 Tanto os modos RGB e Hexadecimal, possuem transparência acessível pelo editor VScode. Para acessar as configurações basta passar o mouse por cima da cor que deseja adicionar a transparência e, na janela agora aberta, mover o cursor ao lado da barra de cores.
 
-![opcoes_cor](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/opcoes_cor.PNG)
+![opcoes_cor](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/opcoes_cor.PNG)
 
 ### 13.2 Harmonia de cores e sua importância.
 
@@ -949,19 +949,19 @@ Tanto os modos RGB e Hexadecimal, possuem transparência acessível pelo editor 
 
 Cada cor pode ser associada a um tipo de sentimento ou estado, deve-se levar em consideração o que cada cor representa antes de usá-la em um projeto.
 
-![associacoes](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/associacoes.png)
+![associacoes](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/associacoes.png)
 
 #### 13.2.2 - O que é círculo cromático?
 
 O circulo cromático é uma representação das cores em formato de círculo.
 
-![circulo_cromatico](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/circulo_cromatico.PNG)
+![circulo_cromatico](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/circulo_cromatico.PNG)
 
 ##### 13.2.2.1 - Cores primárias.
 
 Dentre essas classificações temos as cores primárias: Azul,Vermelho e Amarelo.
 
-![primarias](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/primarias.PNG)
+![primarias](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/primarias.PNG)
 
 Essas cores são conhecidas por serem um pouco difíceis de se trabalhar por serem cores primárias e muito "duras".
 
@@ -969,7 +969,7 @@ Essas cores são conhecidas por serem um pouco difíceis de se trabalhar por ser
 
 Dentre essas classificações temos as cores secundárias: Verde,Violeta e Laranja.
 
-![secundarias](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/secundarias.PNG)
+![secundarias](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/secundarias.PNG)
 
 Essas cores também são conhecidas por serem um pouco difíceis de se trabalhar por serem cores muito "duras". 
 
@@ -986,32 +986,32 @@ Vermelho-arroxeado
 Vermelho-alaranjado
 Amarelo-alaranjado
 
-![terciarias2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/terciarias2.webp)
+![terciarias2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/terciarias2.webp)
 
 ##### 13.2.2.4 - Temperatura de cor.
 
 As cores podem lembrar temperaturas específicas e passar a sensação de algo frio ou quente baseado apenas na tonalidade das cores.
 
-![hotcold](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/hotcold.png)
+![hotcold](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/hotcold.png)
 
 
 ##### 13.2.2.5 - Complementares.
 
 As cores complementares são as cores que possuem mais contraste entre si, geralmente elas trabalham bem juntas, mas deve-se tomar cuidado para que os tons não parecem muito fortes deixando a visualização desagradável. Também é um dos modelos de escolhas de cor mais comuns e geralmente utilizados.
 
-![complementar](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/complementar1.png)
+![complementar](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/complementar1.png)
 
 ##### 13.2.2.6 - Análogas.
 
 As cores análogas são o oposto das cores complementares, mas também trabalham bem juntas. Elas são as cores que possuem um contraste muito baixo entre si e tem uma harmonia natural.
 
-![analogas](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/analogas.png)
+![analogas](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/analogas.png)
 
 ##### 13.2.2.7 - Cores análogas e uma complementar.
 
 Esta é uma tecnica muito utilizado no design, consiste em pegar 3 cores análogas e uma complementar gerando assim uma paleta de cores harmônica.
 
-![analogascomplementar](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/analogascomplementar.jpeg)
+![analogascomplementar](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/analogascomplementar.jpeg)
 
 
 ##### 13.2.2.8 - Cores triádicas.
@@ -1019,13 +1019,13 @@ Esta é uma tecnica muito utilizado no design, consiste em pegar 3 cores análog
 Técnica bastante utilizada e que garante uma grande riqueza de cores, onde escolhemos três pontos equidistantes no círculo cromático.
 Esse esquema gera sempre um triângulo equilátero e cria uma opção que sempre possui um ótimo contraste entre as cores.:
 
-![analogasrelacionada](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/triadicas.PNG)
+![analogasrelacionada](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/triadicas.PNG)
 
 ##### 13.2.2.9 - Monocromia
 
 Neste método, trabalhamos apenas com um tipo de cor em tônalidades diferentes, alterando apenas a saturação e o brilho. Exemplo:
 
-![monocromia](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/monocromia.PNG)
+![monocromia](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/monocromia.PNG)
 
 
 
@@ -1041,35 +1041,35 @@ Este site permite a visualização das cores análogas, complementares, etc.
 
 Exemplo de cores análogas:
 
-![adobe color](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/adobecolor.PNG)
+![adobe color](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/adobecolor.PNG)
 
 Exemplo de cores complementares:
 
-![adobe color2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/adobecolor2.PNG)
+![adobe color2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/adobecolor2.PNG)
 
 #### 13.3.2 - Tem uma logo? Aqui está como ter acesso a sua paleta!
 
 Usando a mesma ferramenta podemos utilizar a ferramenta __*Extrair tema*__, ela gera uma paleta de cores baseado na imagem inserida.
 
-![extrairtema](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/extrairtema.PNG)
+![extrairtema](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/extrairtema.PNG)
 
 Ainda podemos formar um gradiente com a ferramenta __*Extrair Gradiente*__ baseado na imagem inserida:
 
-![extrairgradiente](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/extrairgradiente.PNG)
+![extrairgradiente](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/extrairgradiente.PNG)
 
 #### 13.3.3 - Paletas prontas para serem usadas!
 
 Na aba explorar do [adobe Color](https://color.adobe.com/pt/create/color-wheel), podemos achar uma paleta pronta de cores para ser utilizada.
 
-![explorar](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/explorar.PNG)
+![explorar](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/explorar.PNG)
 
 Ainda dentro do explorar, podemos observar uma opção para mostrar as paletas mais usadas:
 
-![menuexplorar](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/menuexplorar.PNG)
+![menuexplorar](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/menuexplorar.PNG)
 
 Resultado:
 
-![paletasmaisusadas](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/paletasmaisusadas.PNG)
+![paletasmaisusadas](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/paletasmaisusadas.PNG)
 
 ### 13.4 - Salvando cores no navegador.
 
@@ -1096,11 +1096,11 @@ div{
 ```
 Resultado:
 
-![gradiente](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/gradiente.PNG)
+![gradiente](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/gradiente.PNG)
 
 Podemos adicionar mais cores a essa função:
 
-![gradiente2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/gradiente2.PNG)
+![gradiente2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/gradiente2.PNG)
 
 Podemos indicar qual a porcentagem de tela que cada cor terá:
 
@@ -1110,7 +1110,7 @@ background-image: linear-gradient(90deg, #710CE8 33%, #0113DB 50%, #0C92E8);
 
 Resultado:
 
-![gradiente4](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/gradiente4.PNG)
+![gradiente4](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/gradiente4.PNG)
 
 Note que diferente do senso comum, a porcentagem nesse caso não indica a quantidade de tela a ser tomada pela cor, mas sim o espaço restante que ainda não foi tomado por cores anteriores. Isso quer dizer que se a primeira cor tomar 70% do espaço, mesmo que a próxima ocupe 50%, o valor real ocupado do espaço horizontal será de apenas 15%.
 
@@ -1122,7 +1122,7 @@ background-image: linear-gradient(90deg, #710CE8 70%, #0113DB , #0C92E8 );
 
 Resultado:
 
-![gradiente5](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/gradiente5.PNG)
+![gradiente5](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/gradiente5.PNG)
 
 
 
@@ -1150,7 +1150,7 @@ background-image: radial-gradient(circle, #710CE8, #370CF2, #0113DB, #0C5CF2, #0
 ```
 Resultado:
 
-![gradiente3](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/gradiente3.PNG)
+![gradiente3](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/gradiente3.PNG)
 
 
 
@@ -1177,9 +1177,9 @@ seletor{
 
 Respectivamente, fonte com alteração e sem.
 
-![couriernew](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/couriernew.PNG)
+![couriernew](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/couriernew.PNG)
 
-![timesnewroman](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/timesnewroman.PNG)
+![timesnewroman](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/timesnewroman.PNG)
 
 - __*IMPORTANTE*__ - Esse comando utiliza a fonte já presente no dispositivo, isso quer dizer que se o dispositivo atual não tiver essa fonte, ele vai voltar à padrão. Para evitar essa situação podemos indicar fontes secundárias caso a primeira opção não esteja disponível:
 
@@ -1193,9 +1193,9 @@ body{
 
 Respectivamente, resultado esperado, resultado secundário caso a primeira fonte não esteja disponivel no dispositivo atual e última opção.
 
-![helvetica](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/helvetica.PNG)
-![verdana](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/Verdana.PNG)
-![franklin](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/franklin.PNG)
+![helvetica](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/helvetica.PNG)
+![verdana](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/Verdana.PNG)
+![franklin](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/franklin.PNG)
 
 #### 14.3 - Como garantir que a minha fonte poderá ser usada?
 
@@ -1337,15 +1337,15 @@ Podemos utilizar o [Google Fonts](https://fonts.google.com) para achar fontes pa
 
 Podemos importar uma fonte do google fonts diretamente para o CSS. Depois de selecionar a fonte desejada, clicamos no __*Select this style*__.
 
-![select](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/select.PNG)
+![select](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/select.PNG)
 
 Depois clicamos neste ícone:
 
-![select2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/select2.PNG)
+![select2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/select2.PNG)
 
 Finalmente, selecionando a opção import.
 
-![select3](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/select3.PNG)
+![select3](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/select3.PNG)
 
 
 ### 14.6.2 - Como importar uma fonte baixada? Servidor.
@@ -1408,7 +1408,7 @@ font-family: 'Anger';
 
 Resultado:
 
-![Anger](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/Anger.PNG)
+![Anger](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/Anger.PNG)
 
 ### 14.7 - Como identificar uma fonte de qualquer site?
 
@@ -1420,7 +1420,7 @@ Para isso podemos utilizar extensões de navegadores especializadas e que podem 
   
 No google chrome, [Fonts Ninja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh).
 
-![fontsninja](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/fontsninja.PNG)
+![fontsninja](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/fontsninja.PNG)
 
 #### 14.7.2 - Indentificando fontes de imagens.
 
@@ -1453,7 +1453,7 @@ seletor{
 }
 ````
 
-![left](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/left.PNG)
+![left](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/left.PNG)
 
 
 2 - right, alinhamento à __*direita*__.  <br>
@@ -1465,7 +1465,7 @@ seletor{
 }
 ````
 
-![right](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/right.PNG)
+![right](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/right.PNG)
 
 
 3 - center, alinhamento __*centralizado*__.  <br>
@@ -1477,7 +1477,7 @@ seletor{
 }
 ````
 
-![center](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/center.PNG)
+![center](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/center.PNG)
 
 
 4 - justify, alinhamento __*justificado*__.  <br>
@@ -1489,7 +1489,7 @@ seletor{
 }
 ````
 
-![justify](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/justify.PNG)
+![justify](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/justify.PNG)
 
 ### 14.9 - Como criar um recuo de parágrafo?
 
@@ -1505,7 +1505,7 @@ seletor{
 
 Resultado:
 
-![indent](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/indent.PNG))
+![indent](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/indent.PNG))
 
 
 __*IMPORTANTE*__ - Note que todos os elementos inclusos terão o recuo!
@@ -1524,7 +1524,7 @@ seletor{
 
 Resultado:
 
-![espacoentrelinhas](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/espacoentrelinhas.PNG)
+![espacoentrelinhas](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/espacoentrelinhas.PNG)
 
 ### 14.11 - Alterações de exibição de fonte em maiúscula e minúscula.
 
@@ -1541,7 +1541,7 @@ h1{
 ````
 texto digitado _*"Cordel Moderno"*_:
 
-![small-caps](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/small-caps.PNG)
+![small-caps](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/small-caps.PNG)
 
 - uppercase, transforma todas as letras em maiúsculas.
 
@@ -1552,7 +1552,7 @@ h1{
 ````
 texto digitado _*"cordel moderno"*_:
 
-![small-caps2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/small-caps2.PNG)
+![small-caps2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/small-caps2.PNG)
 
 
 - lowercase, transforma todas as letras em minúsculas.
@@ -1565,7 +1565,7 @@ h1{
 
 texto digitado _*"CORDEL MODERNO"*_:
 
-![small-caps3](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/small-caps3.PNG)
+![small-caps3](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/small-caps3.PNG)
 
 - capitalize, transforma a primeira letra de cada palavra em maiúscula:
 
@@ -1577,7 +1577,7 @@ h1{
 
 texto digitado _*"cordel moderno"*_:
 
-![small-caps4](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/small-caps4.PNG)
+![small-caps4](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/small-caps4.PNG)
 
 
 ## 15 - Seletores CSS
@@ -1615,7 +1615,7 @@ h1{
 
 Resultado:
 
-![seletores](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/seletores.PNG)
+![seletores](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/seletores.PNG)
 
 Note, ambos os títulos foram alterados.
 
@@ -1640,7 +1640,7 @@ h1#principal{
 
 Resultado:
 
-![seletores2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/seletores2.PNG)
+![seletores2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/seletores2.PNG)
 
 ### 15.4 - Como selecionar um elemento por classe?
 
@@ -1666,7 +1666,7 @@ color: blue;
 
 Resultado:
 
-![class](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/class.PNG)
+![class](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/class.PNG)
 
 __*IMPORTANTE*__ - Várias classes podem ser adicionadas ao mesmo elemento separadas por " ".
 
@@ -1689,7 +1689,7 @@ color: white;
 ````
 Resultado:
 
-![class2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/class2.PNG)
+![class2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/class2.PNG)
 
 ### 15.5 - Como selecionar elementos filho?
 
@@ -1755,11 +1755,11 @@ Neste caso estamos selecionando todas as divs, logo depois selecionamos a pseudo
 
 Sem o mouse:
 
-![hover](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/hover.PNG)
+![hover](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/hover.PNG)
 
 Com o mouse em cima da div 01:
 
-![hover2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/hover2.PNG)
+![hover2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/hover2.PNG)
 
 ### 15.6.2 - Procurando por uma pseudo-classe?
 
@@ -1780,7 +1780,7 @@ a::before{
 ````
 Neste exemplo, seria adicionado um pseudo elemento » antes de todos os links, exemplo:
 
-![link](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/link.PNG)
+![link](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/link.PNG)
 
 Para adicionar emojis o correto é trocar U+1F600 por \1F600. 
 
@@ -1844,11 +1844,11 @@ Sendo assim quando passamos o mouse sobre a div(11), acionamos o terceiro seleto
 
 Sem o mouse em cima da div(11).
 
-![exemplohover](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/exemplohover.PNG)
+![exemplohover](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/exemplohover.PNG)
 
 Com o mouse em cima da div(11) ativando o seletor(05).
 
-![exemplohover2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/exemplohover2.PNG)
+![exemplohover2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/exemplohover2.PNG)
 
 
 
@@ -1868,13 +1868,13 @@ Todo elemento aparente em um site é contido em uma caixa, ou seja, quando criam
 <p>Este elemento está contido em uma caixa</p>
 ````
 
-![caixa](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/caixa.PNG)
+![caixa](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/caixa.PNG)
 
 Note que esta caixa ocupa toda a linha, possui tanto uma altura quanto uma largura.
 
 Alterando a sua largura e altura:
 
-![caixa2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/caixa2.PNG)
+![caixa2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/caixa2.PNG)
 
 ### 16.1 - Como transformar um elemento box-level em inline-level e vice-versa?
 
@@ -1887,7 +1887,7 @@ display: inline;
 
 Toda caixa possui uma delimitação de seu espaço interno, essa delimitação é chamada de border. Podemos observar em preto a borda:
 
-![borda](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/borda.PNG)
+![borda](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/borda.PNG)
 
 #### 16.2.1 Adicionando uma borda.
 
@@ -1905,7 +1905,7 @@ seletor{
 
 Resultado:
 
-![borda2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/borda2.PNG)
+![borda2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/borda2.PNG)
 
 - border-style - define o estilo da borda podendo ser:
 
@@ -1928,7 +1928,7 @@ seletor{
 
 Resultado:
 
-![borda3](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/borda3.PNG)
+![borda3](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/borda3.PNG)
 
 - __*ShortHand*__ - define cada borda individualmente. Em ordem: superior esquerdo, superior direito, inferior direito, inferior esquerdo.
 
@@ -1942,7 +1942,7 @@ seletor{
 
 Resultado:
 
-![borda5](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/borda5.PNG)
+![borda5](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/borda5.PNG)
 
 Da mesma forma que o margin, podemos __*alterar em pares*__. Sendo eles: superior esquerdo/inferior direito, superior direito/inferior esquerdo.
 
@@ -1956,7 +1956,7 @@ seletor{
 
 Resultado:
 
-![borda7](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/borda7.PNG)
+![borda7](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/borda7.PNG)
 
 
 
@@ -1974,7 +1974,7 @@ seletor{
 }
 ````
 
-![borda4](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/borda4.PNG)
+![borda4](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/borda4.PNG)
 
 Resultado:
 
@@ -1986,7 +1986,7 @@ Resultado:
 
 Padding é o espaço entre o conteúdo de uma caixa e a sua borda, isso quer dizer que quando adicionamos um padding a um elemento, seu conteúdo se afastará da borda. Exemplo:
 
-![padding](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/padding.PNG)
+![padding](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/padding.PNG)
 
 - padding-top - define o padding superior
 - padding-lef - define o padding esquerdo
@@ -2002,7 +2002,7 @@ seletor{
     padding: 10px;
 }
 ````
-![padding1](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/padding1.PNG)
+![padding1](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/padding1.PNG)
 
 Define as medidas na seguinte ordem: superior, direita, inferior, esquerda.
 
@@ -2014,7 +2014,7 @@ span{
         }
 ````
 
-![padding2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/padding2.PNG)
+![padding2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/padding2.PNG)
 
 Define as medidas em duplas: Superior e Inferior/ Esquerda e direita
 
@@ -2026,13 +2026,13 @@ span{
         }
 ````
 
-![padding3](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/padding3.PNG)
+![padding3](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/padding3.PNG)
 
 ### 16.4 - O que é margin?
 
 Margin é o espaço entre a borda de uma caixa e seu elemento mais próximo, isso quer dizer que quando adicionamos um margin a um elemento, esse elemento se afastará dos elementos mais próximos a ele.
 
-![margin](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/margin.PNG)
+![margin](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/margin.PNG)
 
 - margin-top - define o margin superior
 - margin-lef - define o margin esquerdo
@@ -2048,7 +2048,7 @@ seletor{
     margin: 10px;
 }
 ````
-![margin1](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/margin1.PNG)
+![margin1](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/margin1.PNG)
 
 Define as medidas na seguinte ordem: superior, direita, inferior, esquerda.
 
@@ -2060,7 +2060,7 @@ span{
         }
 ````
 
-![margin2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/margin2.PNG)
+![margin2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/margin2.PNG)
 
 Define as medidas em duplas: Superior e Inferior/ Esquerda e direita
 
@@ -2072,7 +2072,7 @@ span{
         }
 ````
 
-![margin3](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/margin3.PNG)
+![margin3](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/margin3.PNG)
 
 #### 16.4.2 - Margin auto.
 
@@ -2097,7 +2097,7 @@ seletor{
 
 Resultado:
 
-![shadowbox](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/shadowbox.PNG)
+![shadowbox](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/shadowbox.PNG)
 
 Outro exemplo:
 
@@ -2107,7 +2107,7 @@ seletor{
 }
 ````
 
-![shadowbox2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/shadowbox2.PNG)
+![shadowbox2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/shadowbox2.PNG)
 
 Exemplo usável:
 
@@ -2117,7 +2117,7 @@ seletor{
 }
 ````
 
-![shadowbox3](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/shadowbox3.PNG)
+![shadowbox3](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/shadowbox3.PNG)
 
 Note que a sombra, nesse caso é parcialmente transparente para dar um efeito mais agradável visualmente. Note também que ela tem mais de 50% de transparencia gerando melhores resultados.
 
@@ -2131,11 +2131,11 @@ Foi recomendado durante o curso a ferramenta [mockflow](https://www.mockflow.com
 
 Essa ferramenta é boa para estrurar a primeira versão do site, ainda sem cores. Uma versão extremamente simples.
 
-![mock](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/mock.PNG)
+![mock](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/mock.PNG)
 
 O segundo passo é criar uma versão mais fiel do site, com cores e muito próxima da versão real, para isso é recomendado o uso do [figma](https://www.figma.com).
 
-![figma](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/figma.PNG)
+![figma](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/figma.PNG)
 
 ### 17.2 - Organização do projeto.
 
@@ -2210,7 +2210,7 @@ Essas configurações, resetam as pré-configurações dos navegadores e impedem
 
 O [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=pt-br) é uma extensão do chrome que facilita a visualização da responsividade.
 
-![windowresizer](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/windowresizer.PNG)
+![windowresizer](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/windowresizer.PNG)
 
 #### 17.4.2 - Como automatizar a centralização de um elemento?
 
@@ -2226,7 +2226,7 @@ seletor{
         }
 ````
 
-![marginauto](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/marginauto.PNG)
+![marginauto](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/marginauto.PNG)
 
 Com margin auto:
 
@@ -2239,7 +2239,7 @@ seletor{
         }
 ````
 
-![marginauto2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/marginauto2.PNG)
+![marginauto2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/marginauto2.PNG)
 
 __*IMPORTANTE*__ - Como a div por padrão é um elemento blocklevel, ela ocupa a linha inteira, sendo assim o margin auto espaça as margens de forma igual de ambos os lados baseado na largura atual da tela, o que não ocorre com um elemento inlinelevel por não possuir margem.
 
@@ -2304,7 +2304,7 @@ Note que o número utilizado é exatamente 9/16 = 0.5625.
 
 Como resultado do código temos uma div de aspect ratio 16:9 responsiva a largura do elemento pai:
 
-![aspect](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/aspect.PNG)
+![aspect](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/aspect.PNG)
 
 Agora só falta ligar o aspect ratio dessa div ao nosso vídeo integrado, faremos isso com o position:
 
@@ -2324,7 +2324,7 @@ video{
     height: 90%; // altura de 90% da altura do elemento pai
 }
 ````
-![videoexterno](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/videoexterno.PNG)
+![videoexterno](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/videoexterno.PNG)
 
 #### 17.4.4.2 - Video local
 
@@ -2340,7 +2340,7 @@ video{
         }
 ````
 
-![videolocal](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/videolocal.PNG)
+![videolocal](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/videolocal.PNG)
 
 
 
@@ -2401,13 +2401,13 @@ Link de download para o [Github Desktop](https://desktop.github.com). Ferramenta
 
 Para criarmos um site no github pages, vamos utilizar até o repositório no qual desejamos criar a página ou criaremos um repositório novo diretamente no [github](https://github.com). Seguindo os seguintes passos:
 
-![github.com](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/github.PNG)
-![github2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/github2.PNG)
-![github3](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/github3.PNG)
+![github.com](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/github.PNG)
+![github2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/github2.PNG)
+![github3](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/github3.PNG)
 
 Dentro de pages, selecionaremos a branch onde o projeto está e o diretório raiz.
 
-![github4](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/github4.PNG)
+![github4](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/github4.PNG)
 
 Depois, a página ficará disponível no endereço usuário.github.io/repositório. Dentro deste exemplo: https://luisredskill.github.io/HTML-CSS-Javascript/
 
@@ -2440,7 +2440,7 @@ div#A3{
 
 Resultado:
 
-![fundo](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/fundo.PNG)
+![fundo](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/fundo.PNG)
 
 ### 19.2 - Repetição de imagem de fundo.
 
@@ -2448,7 +2448,7 @@ Resultado:
 
 A repetição de fundo no CSS é o padrão, ou seja, toda imagem que não cobrir a página inteira será repetida até cobrir. Exemplo:
 
-![CSS3](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/CSS3.PNG)
+![CSS3](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/CSS3.PNG)
 
 #### 19.2.2 - Como alterar o tamanho de uma imagem de fundo?
 
@@ -2463,7 +2463,7 @@ body{
 
 Resultado:
 
-![CSS3_2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/CSS3_2.PNG)
+![CSS3_2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/CSS3_2.PNG)
 
 #### 19.2.3 - Como NÃO repetir uma imagem de fundo?
 
@@ -2475,7 +2475,7 @@ body{
 
 Resultado:
 
-![CSS3_3](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/CSS3_3.PNG)
+![CSS3_3](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/CSS3_3.PNG)
 
 #### 19.2.3 - Como repetir apenas verticalmente/horizontalmente?
 
@@ -2489,7 +2489,7 @@ body{
 
 Resultado:
 
-![CSS3_4](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/CSS3_4.PNG)
+![CSS3_4](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/CSS3_4.PNG)
 
 Para repetir um fundo _*verticalmente*_ utilizamos:
 
@@ -2501,7 +2501,7 @@ body{
 
 Resultado:
 
-![CSS3_5](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/CSS3_5.PNG)
+![CSS3_5](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/CSS3_5.PNG)
 
 ### 19.3 - Como escolher a posição de referência da imagem de fundo?
 
@@ -2511,7 +2511,7 @@ Por padrão é o canto _*esquerdo superior*_(left top).
 
 Referência:
 
-![posicaobg](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/posicaobg.PNG)
+![posicaobg](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/posicaobg.PNG)
 
 Para reposicionar a imagem de background devemos utilizar a declaração _*background-position*_.
 
@@ -2537,9 +2537,9 @@ div#q4{
 
 Resultado e imagem de referência:
 
-![posicaobg2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/posicaobg2.PNG)
+![posicaobg2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/posicaobg2.PNG)
 
-![posicaobg3](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/posicaobg3.jpg)
+![posicaobg3](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/posicaobg3.jpg)
 
 #### 19.3.1 - O que alterar a referência significa para a responsividade?
 
@@ -2547,7 +2547,7 @@ Alterar a referência de uma imagem de fundo diz ao site qual parte do seu fundo
 
 Vamos supor que nós temos uma imagem de _*300x300*_, e o navegador esteja sendo _*dimensionado*_ em _*200x200*_. As seguintes porções do fundo seriam mostradas:
 
- ![posicaobg4](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/posicaobg4.PNG)
+ ![posicaobg4](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/posicaobg4.PNG)
 
  ### 19.4 - Alterando o tamanho da imagem de background.
 
@@ -2567,7 +2567,7 @@ body{
 
 Resultado:
 
- ![tamanhobg](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/tamanhobg.PNG)
+ ![tamanhobg](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/tamanhobg.PNG)
 
  #### 19.4.2 - Alteração por medidas relativas.
 
@@ -2578,9 +2578,9 @@ body{
     background-size: 100% 100%;  
 }
 ````
-![tamanhobg2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/tamanhobg2.PNG)
+![tamanhobg2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/tamanhobg2.PNG)
 
-![tamanhobg3](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/tamanhobg3.PNG)
+![tamanhobg3](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/tamanhobg3.PNG)
 
  #### 19.4.1 - Como deixar o background responsivo? (cover, contain)
 
@@ -2598,7 +2598,7 @@ body{
 
 Resultado:
 
-![tamanhobg4](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/tamanhobg4.PNG)
+![tamanhobg4](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/tamanhobg4.PNG)
 
 - Contain - Adapta o conteúdo para mostrar toda a imagem sem distorcê-la. Para isso, permite a criação de espaços vazios laterais.
 
@@ -2612,8 +2612,8 @@ body{
 
 Resultado:
 
-![tamanhobg5](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/tamanhobg5.PNG)
-![tamanhobg6](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/tamanhobg6.PNG)
+![tamanhobg5](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/tamanhobg5.PNG)
+![tamanhobg6](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/tamanhobg6.PNG)
 
 ### 19.5 - Alterando a fixação do background (scroll, fixed)
 
@@ -2628,7 +2628,7 @@ body{
 ````
 Resultado:
 
-![scroll](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/gifs/scroll.gif)
+![scroll](https://github.com/luisredskill/Conhecimentos/tree/main/Content/GIFS/scroll.gif)
 
 Código:
 
@@ -2639,7 +2639,7 @@ body{
 ````
 Resultado:
 
-![fixed](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/gifs/fixed.gif)
+![fixed](https://github.com/luisredskill/Conhecimentos/tree/main/Content/GIFS/fixed.gif)
 
 ### 19.6 - Background ShortHand
 
@@ -2666,7 +2666,7 @@ size
 
 Resultado:
 
-![fixed](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/gifs/fixed.gif)
+![fixed](https://github.com/luisredskill/Conhecimentos/tree/main/Content/GIFS/fixed.gif)
 
 
 ## 20 - Projeto Cordel
@@ -2678,12 +2678,12 @@ Projeto feito com base nos conhecimentos anteriores e [capítulo 19](https://git
 
 Veja aqui o [projeto feito sozinho.](https://luisredskill.github.io/HTML-CSS-Javascript/HTML-CSS/Exercicios/Desafios-M3/Desafio%20012%20Efeito%20parallax/index.html) com alterações propositais.
 
-![cordel](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/gifs/cordel.gif)
+![cordel](https://github.com/luisredskill/Conhecimentos/tree/main/Content/GIFS/cordel.gif)
 
 Veja aqui o [projeto feito em aula.](https://luisredskill.github.io/HTML-CSS-Javascript/HTML-CSS/Exercicios/Desafios-M3/Desafio%20012%20Efeito%20parallax%20feito%20em%20aula/index.html)
 
 
-![cordelaula](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/gifs/cordelaula.gif)
+![cordelaula](https://github.com/luisredskill/Conhecimentos/tree/main/Content/GIFS/cordelaula.gif)
 
 ## 21 - Tabelas em CSS
 
@@ -2766,7 +2766,7 @@ Resulado:
 
 Resultado:
 
-![tablehead](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/tablehead.PNG)
+![tablehead](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/tablehead.PNG)
 
 - _*IMPORTANTE*_ - _*NÃO*_ é obrigatório o fechamento das tags &lt;td&gt; e &lt;tr&gt;. 
 
@@ -2784,11 +2784,11 @@ Fazemos isso atribuindo aos títulos suas respectivas informações corresponden
 
 Isto indica que o título _*Estado*_ &lt;th&gt; se refere a coluna de informações &lt;td&gt; abaixo dele representado em vermelho:
 
-![tablehead2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/tablehead2.PNG)
+![tablehead2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/tablehead2.PNG)
 
 O mesmo se aplica ao título _*População*_ &lt;th&gt; que se refere a coluna de informações &lt;td&gt; abaixo dele representado em verde.
 
-![tablehead3](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/tablehead3.PNG)
+![tablehead3](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/tablehead3.PNG)
 
 ````
  <th scope="row">Estado</th>              
@@ -2796,7 +2796,7 @@ O mesmo se aplica ao título _*População*_ &lt;th&gt; que se refere a coluna d
 
 Também pode ser aplicado a linhas como é o caso do foot apresentado na tabela onde _*Total de Habitantes*_ &lt;th&gt; se refere à linha representado em amarelo:
 
-![tablehead4](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/tablehead4.PNG)
+![tablehead4](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/tablehead4.PNG)
 
 #### 21.2.2 - Escopo de grupo.
 
@@ -2804,19 +2804,19 @@ Quando executamos uma mesclagem de células de um título, queremos indicar que 
 
 Exemplo:
 
-![tablegroup](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/tablegroup.PNG)
+![tablegroup](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/tablegroup.PNG)
 
 Note que Mulheres neste caso representa um grupo de linhas, não apenas uma linha.
 
 Assim sendo, devemos utilizar o atributo _*row-group*_(verde) em vez de _*row*_ (vermelho).
 
-![rowgroup](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/gifs/rowgroup.gif)
+![rowgroup](https://github.com/luisredskill/Conhecimentos/tree/main/Content/GIFS/rowgroup.gif)
 
 
 O mesmo se aplica ao título _*Filmes*_ onde devemos utilizar o _*col-group*_(verde) em vez de _*col*_(vermelho):
 
 
-![colgroup](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/gifs/colgroup.gif)
+![colgroup](https://github.com/luisredskill/Conhecimentos/tree/main/Content/GIFS/colgroup.gif)
 
 ### 21.3 - Mesclagem de tabelas.
 
@@ -2835,7 +2835,7 @@ Código presente neste [link](https://github.com/luisredskill/HTML-CSS-Javascrip
 
 Resultado:
 
-![mesclagem](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/mesclagem.PNG)
+![mesclagem](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/mesclagem.PNG)
 
 
 ### 21.4 - Bordas de tabelas
@@ -2844,7 +2844,7 @@ Por padrão as _*bordas*_ de uma tabela CSS vem _*desativadas*_. Para ativá-las
 
 Porém uma nova propriedade é aplicada as bordas de tabela. Por padrão as bordas de uma tabela não colapsam gerando o seguinte efeito:
 
-![table](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/table.PNG)
+![table](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/table.PNG)
 
 Para fazer com que as bordas _*colapsem*_, podemos utilizar o atributo _*border-collapse*_ que vem com o valor padrão em _*separate*_ alterando-o para _*collapse*_.
 
@@ -2854,7 +2854,7 @@ table{
 }
 ````
 
-![table2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/table2.PNG)
+![table2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/table2.PNG)
 
 ### 21.5 - Alinhamento do conteúdo em tabelas.
 
@@ -2872,7 +2872,7 @@ td{
 
 Resultado:
 
-![tablealign](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/gifs/tablealign.gif)
+![tablealign](https://github.com/luisredskill/Conhecimentos/tree/main/Content/GIFS/tablealign.gif)
 
 #### 21.5.2 - Alinhamento vertical.
 
@@ -2888,7 +2888,7 @@ td{
 
 Resultado:
 
-![tablevertical](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/gifs/tablevertical.gif)
+![tablevertical](https://github.com/luisredskill/Conhecimentos/tree/main/Content/GIFS/tablevertical.gif)
 
 ### 21.6 - Efeito zebrado em tabelas.
 
@@ -2906,7 +2906,7 @@ Assim, primeiro é selecionado o corpo da tabela, depois a pseudo-classe que rep
 
 Resultado:
 
-![tablezebra](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/tablezebra.PNG)
+![tablezebra](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/tablezebra.PNG)
 
 Ainda podemos utilizar _*2n-1*_, _*odd*_ e _*even*_ para obter o mesmo resultado diferenciando apenas qual será a primeira célula a ser aplicada o efeito.
 
@@ -2924,7 +2924,7 @@ Código:
 
 Resultado:
 
-![selecionandocolunas](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/selecionandocolunas.PNG)
+![selecionandocolunas](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/selecionandocolunas.PNG)
 
 #### 21.7.2 - Selecionando colunas de tabelas.
 
@@ -2932,7 +2932,7 @@ Já a personalização de colunas é um pouco mais complicado, pois não temos u
 
 Para isso temos uma ferramente que permite selecionar colunas inteiras muito parecido com o &lt;tr&gt;. Exemplo:
 
-![selecionandocolunas2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/selecionandocolunas2.PNG)
+![selecionandocolunas2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/selecionandocolunas2.PNG)
 
 ````
     <colgroup>
@@ -2969,7 +2969,7 @@ Código:
 ````
 Resultado:
 
-![selecionandocolunas](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/gifs/selecionandocolunas.gif)
+![selecionandocolunas](https://github.com/luisredskill/Conhecimentos/tree/main/Content/GIFS/selecionandocolunas.gif)
 
 Ainda é possivel selecionar mais de uma coluna por tag &lt;col&gt; da seguinte forma:
 
@@ -3000,7 +3000,7 @@ CSS:
 
 Resultado:
 
-![span](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/gifs/span.gif)
+![span](https://github.com/luisredskill/Conhecimentos/tree/main/Content/GIFS/span.gif)
 
 
 ### 21.8 - Cabeçalho fixo para tabelas.
@@ -3037,7 +3037,7 @@ thead > tr > th {
 
 Quando trabalhamos com tabelas maiores enfrentamos um problema muito comum, caso a tela seja reduzida o html da página gera uma rolagem lateral da página inteira:
 
-![tabelaresponsiva](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/gifs/tabelaresponsiva.gif)
+![tabelaresponsiva](https://github.com/luisredskill/Conhecimentos/tree/main/Content/GIFS/tabelaresponsiva.gif)
 
 Para evitar esse tipo de comportamento podemos utilizar a seguinte configuração:
 
@@ -3061,7 +3061,7 @@ div#container{
 
 Resultado:
 
-![tabelaresponsiva2](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/gifs/tabelaresponsiva2.gif)
+![tabelaresponsiva2](https://github.com/luisredskill/Conhecimentos/tree/main/Content/GIFS/tabelaresponsiva2.gif)
 
 ### 21.10 - Desafio 14
 
@@ -3069,7 +3069,7 @@ Reconstruir tabela mostrada [em aula](https://www.youtube.com/watch?v=V2gVaqTSRm
 
 Resultado:
 
-![desafio14](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/desafio14.PNG)
+![desafio14](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/desafio14.PNG)
 
 Código disponível [aqui](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Exercicios/Desafios-M3/Desafio%20014%20tabela%20de%20notas/index.html).
 
@@ -3081,16 +3081,16 @@ iFrame é a abreviação de Inline Frame, essa ferramente permite que você exib
 
 - Vídeo do youtube
 
-![youtube](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/youtube.PNG)
+![youtube](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/youtube.PNG)
 
 - Google maps
 
-![googlemaps](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/googlemaps.PNG)
+![googlemaps](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/googlemaps.PNG)
 
 
 Ele é parte do conteúdo do site, mas não é parte do site em si. Alguns sites não permitem que seu conteúdo seja colocado em iframes como o próprio google:
 
-![google](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/google.PNG)
+![google](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/google.PNG)
 
 ### 22.2 - Problemas com iFrame.
 
@@ -3199,7 +3199,7 @@ Projeto feito com base nos conhecimentos anteriores e [capítulo 22](https://git
 Veja aqui o [projeto feito em aula.](https://luisredskill.github.io/HTML-CSS-Javascript/HTML-CSS/Exercicios/Desafios-M3/Desafio%20013%20Redes%20Sociais/index.html)
 
 
-![projetosocial](https://github.com/luisredskill/HTML-CSS-Javascript/blob/main/HTML-CSS/Screenshots/projetosocial.PNG)
+![projetosocial](https://github.com/luisredskill/Conhecimentos/tree/main/Content/SCREENSHOTS/projetosocial.PNG)
 
 ## 24 - Formulários em HTML.
 

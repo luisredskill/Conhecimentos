@@ -30,35 +30,30 @@ Representação visual no repositório github:
 ![Screenshot](../Content/SCREENSHOTS/MarkdownTitle.png)
  
 
-### Listas ✔️
+## 3 - Listas ✔️
+
  As listas em Markdown podem ser representadas apenas adicionando um - na frente de uma linha.
 
-### 2.2 - Bits e Bytes 
+## 4 - Imagens, Links e Gifs 🖼️🔗
 
-<dl>
-    <dt>Bit</dt>
-    <dd>Digito binário, representado por 0 ou 1.</dd>
-    <dt>Byte</dt>
-    <dd>conjunto de 8 bits, é a porção mínima para representar um dado.</dd>
-    <dt>UTF-8</dt>
-    <dd>UTF-8 (8-bit Unicode Transformation Format) é um tipo de codificação binária (Unicode), incluindo caracteres espciais como os acentos gráficos brasileiros.</dd>
-    <dt>MB</dt>
-    <dd>Representa Megabytes, geralmente representado para quantidades de *armazenamento*.</dd>
-    <dt>Mb</dt>
-    <dd>Representa Megabits, geralmente representado para quantidades de *transmissão*.</dd>
-    <dt>Múltiplos</dt>
-    <dd>Os múltiplos do byte e bit são representados pela multiplicação por 1024, não por 1000. Pois a representação é feita na base 2, ou seja. 2 elevado a 10 = 1024.  </dd>
+Para adicionar uma imagem link ou gif, basta utilizar uma sintaxe que indica o nome que estará visível ao usuário e o link interno ou externo. Para imagens utilizamos o !, indicando que deve-se mostrar a imagem em vez do link desta mesma imagem. Exemplos abaixo:
 
-</dl>
+Imagem:
 
-| Dados          | Múltiplo   | Equivalente em bytes      |
-| -------------- | ---------- | ------------------------- |
-| 1024 bytes     | 1 Kilobyte | 1.024                     |
-| 1024 Kilobytes | 1 Megabyte | 1.048.576                 |
-| 1024 Megabytes | 1 Gigabyte | 1.073.741.824             |
-| 1024 Gigabytes | 1 Terabyte | 1.099.511.627.776         |
-| 1024 Terabytes | 1 Petabyte | 1.125.899.906.842.624     |
-| 1024 Petabytes | 1 Exabyte  | 1.152.921.504.606.846.976 |
+````
+![Screenshot](../Content/SCREENSHOTS/MarkdownTitle.png)
+````
+
+![Screenshot](../Content/SCREENSHOTS/caixa2.PNG)
+
+Link:
+
+````
+[Screenshot](../Content/SCREENSHOTS/MarkdownTitle.png)
+````
+
+[Screenshot](../Content/SCREENSHOTS/caixa2.PNG)
+
 
 
 

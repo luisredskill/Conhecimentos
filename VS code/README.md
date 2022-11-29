@@ -15,5 +15,18 @@
 |       _**div.banner**_                        |     Cria uma div com a tag banner                             |
 |       _**div#banner**_                        |     Cria uma div com id banner.                               |
 
+## Configuracoes
+
+### Visual Studio Code
+Live server
+C# - microsoft
+C# Extensions - jchannon
+C# snippets - Jorge Serrano
+C# XML Documentation Comments - Keisuke Kato
+Rainbow Brackets - 2agua
+Font 16px 
+..
+
+
 
 

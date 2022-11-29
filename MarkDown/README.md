@@ -73,7 +73,7 @@ Podemos fazer isso colocando nosso código entre ```:
   <pre>  if (hour < 18) {
       greeting = "Good day";
     }
-   <pre/> 
+   </pre> 
 
 
 

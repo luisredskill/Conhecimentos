@@ -70,12 +70,11 @@ Link:
 
 Podemos fazer isso colocando nosso código entre ```:
 
-
-    ```
     if (hour < 18) {
       greeting = "Good day";
     }
-    ```
+    
+
 
 
 ````
@@ -83,23 +82,12 @@ Podemos fazer isso colocando nosso código entre ```:
       greeting = "Good day";
     }
 
-
+````
 
 Imagem:
 
-````
-![Screenshot](../Content/SCREENSHOTS/MarkdownTitle.png)
-````
 
-![Screenshot](../Content/SCREENSHOTS/caixa2.PNG)
 
-Link:
-
-````
-[Screenshot](../Content/SCREENSHOTS/MarkdownTitle.png)
-````
-
-[Screenshot](../Content/SCREENSHOTS/caixa2.PNG)
 
 
 

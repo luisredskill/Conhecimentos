@@ -68,7 +68,7 @@ Link:
 
 ## 4 - Representação de trechos de código
 
-Podemos fazer isso colocando nosso código entre :
+<pre> Podemos fazer isso colocando nosso código entre : </pre>
 
    if (hour < 18) {
       greeting = "Good day";

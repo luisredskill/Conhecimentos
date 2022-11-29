@@ -34,9 +34,56 @@ Representação visual no repositório github:
 
  As listas em Markdown podem ser representadas apenas adicionando um - na frente de uma linha.
 
+Exemplo:
+
+ ````
+- coisa 1
+- coisa 2
+- coisa 3
+ ````
+
+- coisa 1
+- coisa 2
+- coisa 3
+
 ## 4 - Imagens, Links e Gifs 🖼️🔗
 
 Para adicionar uma imagem link ou gif, basta utilizar uma sintaxe que indica o nome que estará visível ao usuário e o link interno ou externo. Para imagens utilizamos o !, indicando que deve-se mostrar a imagem em vez do link desta mesma imagem. Exemplos abaixo:
+
+Imagem:
+
+````
+![Screenshot](../Content/SCREENSHOTS/MarkdownTitle.png)
+````
+
+![Screenshot](../Content/SCREENSHOTS/caixa2.PNG)
+
+Link:
+
+````
+[Screenshot](../Content/SCREENSHOTS/MarkdownTitle.png)
+````
+
+[Screenshot](../Content/SCREENSHOTS/caixa2.PNG)
+
+## 4 - Representação de trechos de código
+
+Podemos fazer isso colocando nosso código entre ```:
+
+
+    ```
+    if (hour < 18) {
+      greeting = "Good day";
+    }
+    ```
+
+
+````
+    if (hour < 18) {
+      greeting = "Good day";
+    }
+
+
 
 Imagem:
 

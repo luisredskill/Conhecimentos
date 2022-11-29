@@ -70,10 +70,10 @@ Link:
 
 Podemos fazer isso colocando nosso código entre ```:
 
-    if (hour < 18) {
+  <pre>  if (hour < 18) {
       greeting = "Good day";
     }
-    
+   <pre/> 
 
 
 

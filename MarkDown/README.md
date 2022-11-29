@@ -27,11 +27,7 @@ O Título em markdown é representado, assim como em HTML, por uma hierarquia be
 
 Representação visual no repositório github:
 
-# Título 1 
-## Título 2 
-### Título 3 
-#### Título 4 
-##### Título 5 
+![Screenshot](../Content/SCREENSHOTS/MarkdownTitle.PNG)
  
 
 ### Listas ✔️

@@ -97,13 +97,8 @@ Componentes são partes modulares e reutilizáveis do código. Cada componente �
 Dentro de uma aplicação é muito comum que tenhamos um componente para o **Header**, outro para o **Body** e mais um para o **Footer**. Outro fator interessante é que não apenas esses componentes vão estar na aplicação, mas cada componente pode ser **filho** ou **pai** de outro componente.
 
 Normalmente dentro do react, todos os componentes são filhos de **App**, que vai comportar todos os outros.
-````
-    ➡️ Header
-                ➡️  InfoBlock1
-App ➡️ Body     ➡️  InfoBlock2
-                ➡️  InfoBlock3
-    ➡️ Footer
-````
+
+![exemplo](../Content/SCREENSHOTS/infoBlock.png)
 
 
 Para fins organizatórios, é indicado criar uma pasta para estes componentes novos que serão criados. Por convenção essa pasta tem o nome de **Components**.

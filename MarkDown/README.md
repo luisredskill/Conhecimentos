@@ -182,7 +182,7 @@ Ainda existem uma grande variedade de símbolos que podem ser encontradas pesqui
 
 
 
-### 8.1 - TAGs de formatação.
+## 8 - TAGs de formatação.
 
 - __*&lt;strong&gt;*__ - <strong>negrito</strong>, destaque
 

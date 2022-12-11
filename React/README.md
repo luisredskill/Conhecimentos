@@ -98,16 +98,106 @@ Dentro de uma aplicação é muito comum que tenhamos um componente para o **Hea
 
 Normalmente dentro do react, todos os componentes são filhos de **App**, que vai comportar todos os outros.
 
+Fluxograma que representa o parentesco de cada Componente:
+
 ![exemplo](../Content/SCREENSHOTS/infoBlock.png)
+
+_**IMPORTANTE**_ - Todo **COMPONENTE** dentro do React é representado com a primeira letra maiúscula para diferenciar dos elementos HTML.
+
+### 5.3 - Organizando os components
 
 
 Para fins organizatórios, é indicado criar uma pasta para estes componentes novos que serão criados. Por convenção essa pasta tem o nome de **Components**.
 
-### 5.2 - Como funcionam?
+![exemplo](../Content/SCREENSHOTS/components.png)
 
-Um componente, dentro do React, é tratado como parte
+### 5.2 - Estrutura de um componente
 
+Um component é uma **função javascript**, sendo assim, quando chamado, nós estamos de fato chamando uma **função Js** que vai retornar nosso **HTML**. 
 
+Exemplo:
+
+````
+import React from "react"
+
+export default function() {
+    return (
+        <h1>Hello, world!</h1>
+    )
+}
+````
+
+Note que a primeira linha faz a importação do React para habilitar as funcionalidades do react. Logo abaixo temos a função que será exportada e seu respectivo HTML retornado.
+
+### 5.3 - Importando um componente
+
+Os componentes são partes de um código e ao mesmo tempo funções Javascript que serão exportadas. Porém a sintaxe de importação é um pouco diferente da normal.
+
+Para importarmos um componente podemos importá-lo do topo do documento com a seguinte sintaxe:
+
+````
+import NomeDoComponente from "../Caminho/Do/Componente"
+````
+
+_**IMPORTANTE**_ - Note que a sintaxe do nome do componente **DEVE** ser em **MAIÚSCULO** para evitar que o compilador confunda elementos HTML com componentes React.
+
+Exemplo:
+
+````
+import Header from "../src/Components/Header"
+````
+
+Neste exemplo estamos importando o **COMPONENTE HEADER** da pasta **COMPONENTS**.
+
+Depois, para representá-lo visualmente em nossa aplicação, utilizamos o nome do componente em uma tag auto-fechada.
+
+````
+import Header from "../src/Components/Header"
+
+function App() {
+  return (
+    <Header/>
+  );
+}
+````
+
+## 6 - Props
+
+## 7 - React Deploy
+
+## 7.1 - Resumo
+
+## 7.2 - Github
+
+Primeiro, [criamos um repositório](https://github.com/luisredskill/Conhecimentos/blob/main/Git/README.md#processo-de-cria%C3%A7%C3%A3o-de-reposit%C3%B3rio) e o tornamos público. Depois puxamos esse repositório para nossa máquina segundo 
+
+Depois, vamos [criar uma nova aplicação React](https://github.com/luisredskill/Conhecimentos/tree/main/React#32---aplicativo-local-create-react-app).
+
+Dentro do diretório criado, vamos incluir uma **dependência**. No cmd:
+
+````
+npm install gh-pages --save-dev
+
+````
+
+Depois de editar o pacote adicionaremos ao **package.json** as seguintes alterações.
+
+![alterações](../Content/SCREENSHOTS/react-gh-pages.png)
+
+- Adicionar key "homepage" no começo do arquivo.
+  ````
+  "homepage": "http://myUserName.github.io/MyRepository"
+
+  "homepage": "http://luisredskill.github.io/Portfolio",
+  ````
+
+  - Dentro de "scripts", adicionar depois de start: "predeploy" e "deploy" com os seguintes comandos:
+  ````
+   "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+  ````
+
+  ![alterações](../Content/SCREENSHOTS/react-gh-pages02.png)
 
 
 

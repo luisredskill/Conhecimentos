@@ -169,18 +169,18 @@ function App() {
 
 ## 7.2 - Github
 
-Primeiro, [criamos um repositório](https://github.com/luisredskill/Conhecimentos/blob/main/Git/README.md#processo-de-cria%C3%A7%C3%A3o-de-reposit%C3%B3rio) e o tornamos público. Depois puxamos esse repositório para nossa máquina segundo 
+1 -  [criamos um repositório](https://github.com/luisredskill/Conhecimentos/blob/main/Git/README.md#processo-de-cria%C3%A7%C3%A3o-de-reposit%C3%B3rio) e o tornamos público. Depois puxamos esse repositório para nossa máquina segundo 
 
-Depois, vamos [criar uma nova aplicação React](https://github.com/luisredskill/Conhecimentos/tree/main/React#32---aplicativo-local-create-react-app).
+2 - vamos [criar uma nova aplicação React](https://github.com/luisredskill/Conhecimentos/tree/main/React#32---aplicativo-local-create-react-app).
 
-Dentro do diretório criado, vamos incluir uma **dependência**. No cmd:
+3 - Dentro do diretório criado, vamos incluir uma **dependência do github pages**. No cmd:
 
 ````
 npm install gh-pages --save-dev
 
 ````
 
-Depois de editar o pacote adicionaremos ao **package.json** as seguintes alterações.
+4 -  adicionaremos ao **package.json**, localizado dentro de nosso projeto, as seguintes alterações.
 
 ![alterações](../Content/SCREENSHOTS/react-gh-pages.png)
 
@@ -198,6 +198,15 @@ Depois de editar o pacote adicionaremos ao **package.json** as seguintes altera�
   ````
 
   ![alterações](../Content/SCREENSHOTS/react-gh-pages02.png)
+
+  
+5 - Rodaremos o comando:
+
+Este comando cria uma versão de produção da página e upa ela diretamente para o gh-pages, tudo em um único comando depois de configurar como citado nas etapas 1 a 4.
+
+````
+npm run deploy
+````
 
 
 

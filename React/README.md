@@ -35,6 +35,11 @@ Isso torna o React uma tecnologia muito flexível para a solução de problemas 
 
 [Kenzie sobre React](https://kenzie.com.br/blog/react/)
 
+### 1.4 - Quais são as vatagens do React?
+
+- Código declarativo
+- Reuzabilidade
+
 ## 2 O que é JSX? 
 
     Para responder o que é JSX primeiro precisamos olhar para como Javascript puro é escrito e aplicado aos elementos. Por natureza, a organização, estilo e lógica das aplicações feitas em Javascript são feitas de forma separada o que muitas vezes não faz sentido uma vez que, em teoria, uma aplicação juntaria essas peças para interagirem umas com as outras depois de criadas.
